@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/learnswarm.iml" filepath="$PROJECT_DIR$/.idea/learnswarm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/myswarm.iml" filepath="$PROJECT_DIR$/.idea/myswarm.iml" />
     </modules>
   </component>
 </project>

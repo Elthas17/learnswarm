@@ -1,0 +1,7 @@
+version: '3'
+services:
+  nodered:
+    build: .
+    image: elthas/myswarm:latest
+    ports:
+      - "5000:5000"
