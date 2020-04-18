@@ -12,7 +12,7 @@ app = Flask(__name__)
 def hello():
     # host_name = socket.gethostname()
     # host_ip = socket.gethostbyname(host_name)
-    message = 'my first message'
+    message = 'my second message'
     now = datetime.now()
 
     current_time = now.strftime("%H:%M:%S")
